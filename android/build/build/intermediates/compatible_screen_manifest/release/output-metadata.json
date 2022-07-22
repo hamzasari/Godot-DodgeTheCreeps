@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "org.godotengine.dodgethecreeps",
+  "applicationId": "org.hamzasari.dodgethecreeps",
   "variantName": "release",
   "elements": []
 }

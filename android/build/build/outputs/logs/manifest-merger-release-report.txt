@@ -238,7 +238,7 @@ ADDED from C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifes
 	android:required
 		ADDED from C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:10:52-75
 instrumentation
-ADDED from C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:11:5-16:60
+ADDED from C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:11:5-16:58
 REJECTED from [godot-lib.release.aar] C:\Users\hamza\.gradle\caches\transforms-3\116885a8b5e7a96710277a2f2a84ccfd\transformed\jetified-godot-lib.release\AndroidManifest.xml:10:5-14:57
 	tools:node
 		ADDED from C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:12:9-29
@@ -247,7 +247,7 @@ REJECTED from [godot-lib.release.aar] C:\Users\hamza\.gradle\caches\transforms-3
 	android:icon
 		ADDED from C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:14:9-36
 	android:targetPackage
-		ADDED from C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:16:9-57
+		ADDED from C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:16:9-55
 	android:name
 		ADDED from C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:13:9-45
 meta-data#org.godotengine.library.version

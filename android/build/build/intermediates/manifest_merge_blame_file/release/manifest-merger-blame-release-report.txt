@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="org.godotengine.dodgethecreeps"
+3    package="org.hamzasari.dodgethecreeps"
 4    android:installLocation="auto"
 5    android:versionCode="1"
 6    android:versionName="1.0" > <!-- glEsVersion is modified by the exporter, changing this value here has no effect. -->
@@ -27,15 +27,15 @@
 19-->C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:10:52-75
 20
 21    <instrumentation
-21-->C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:11:5-16:60
+21-->C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:11:5-16:58
 22        android:name=".GodotInstrumentation"
 22-->C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:13:9-45
 23        android:icon="@mipmap/icon"
 23-->C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:14:9-36
 24        android:label="@string/godot_project_name_string"
 24-->C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:15:9-58
-25        android:targetPackage="org.godotengine.$genname" />
-25-->C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:16:9-57
+25        android:targetPackage="org.hamzasari.$genname" />
+25-->C:\repo\godot\DodgeTheCreeps\android\build\src\release\AndroidManifest.xml:16:9-55
 26
 27    <application
 27-->C:\repo\godot\DodgeTheCreeps\android\build\AndroidManifest.xml:31:5-87:19
